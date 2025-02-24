@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineer 💻 at [monade.io](monade.io)
+I'm a Software Engineer 💻 at [Talentware](talentware.ai)
 
 🌱 This is my bento profile: https://bento.me/fmannino
 
